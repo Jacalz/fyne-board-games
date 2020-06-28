@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="768"
+   inkscape:export-xdpi="768"
+   inkscape:export-filename="/home/jacob/Git/fyne-board-games/tic-tac-toe/assets/cross-256.png"
+   sodipodi:docname="cross.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 32 32"
+   height="32px"
+   width="32px">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:grid-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1007"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="16.77752"
+     inkscape:cx="17.725048"
+     inkscape:zoom="22.627417"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path31"
+       d="M 3.0181937,28.955025 1.182e-4,25.936595 4.9682,20.968297 9.9362828,16 4.9681409,11.031643 0,6.0632872 3.0316433,3.0316436 6.0632865,1.1999999e-7 11.031643,4.9681414 16,9.936283 20.968357,4.9681414 25.936714,1.2e-7 28.968357,3.0316436 32,6.0632872 27.031859,11.031643 22.063717,16 27.031859,20.968357 32,25.936713 28.968357,28.968357 25.936714,32 20.968357,27.031859 16,22.063717 l -4.955084,4.95487 c -2.7252954,2.725177 -4.9671351,4.954868 -4.9818648,4.954868 -0.014735,0 -1.3849156,-1.358293 -3.0448575,-3.01843 z"
+       style="fill:#d40000;stroke-width:0.05342292" />
+  </g>
+</svg>

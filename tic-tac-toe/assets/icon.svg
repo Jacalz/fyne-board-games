@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="768"
+   inkscape:export-xdpi="768"
+   inkscape:export-filename="/home/jacob/Git/fyne-board-games/tic-tac-toe/assets/icon-512.png"
+   sodipodi:docname="icon.svg"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 64 64"
+   height="64px"
+   width="64px">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:grid-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1007"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="31.250747"
+     inkscape:cx="31.670215"
+     inkscape:zoom="11.313708"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid4950"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       r="32"
+       cy="32"
+       cx="32"
+       id="path4971"
+       style="opacity:1;fill:#800000;stroke:none;stroke-width:1.48096788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="fill:#ffffff"
+       transform="translate(0.4375,-0.4375)"
+       id="g4940">
+      <g
+         id="layer1-3"
+         inkscape:label="Layer 1"
+         transform="matrix(0.5,0,0,0.5,13.5,14.5)"
+         style="fill:#ffffff">
+        <path
+           inkscape:connector-curvature="0"
+           id="path31"
+           d="M 3.0181937,28.955025 1.182e-4,25.936595 4.9682,20.968297 9.9362828,16 4.9681409,11.031643 0,6.0632872 3.0316433,3.0316436 6.0632865,1.1999999e-7 11.031643,4.9681414 16,9.936283 20.968357,4.9681414 25.936714,1.2e-7 28.968357,3.0316436 32,6.0632872 27.031859,11.031643 22.063717,16 27.031859,20.968357 32,25.936713 28.968357,28.968357 25.936714,32 20.968357,27.031859 16,22.063717 l -4.955084,4.95487 c -2.7252954,2.725177 -4.9671351,4.954868 -4.9818648,4.954868 -0.014735,0 -1.3849156,-1.358293 -3.0448575,-3.01843 z"
+           style="fill:#ffffff;stroke-width:0.05342292" />
+      </g>
+      <g
+         id="layer1-1"
+         inkscape:label="Layer 1"
+         transform="matrix(0.5,0,0,0.5,33.75,14.5)"
+         style="fill:#ffffff">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8"
+           d="m 15.75,0 a 16,16 0 0 0 -16,16 16,16 0 0 0 16,16 16,16 0 0 0 16,-16 16,16 0 0 0 -16,-16 z m 0,8.5703125 A 7.4299998,7.4299998 0 0 1 23.179688,16 7.4299998,7.4299998 0 0 1 15.75,23.429688 7.4299998,7.4299998 0 0 1 8.320312,16 7.4299998,7.4299998 0 0 1 15.75,8.5703125 Z"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="layer1-3-2"
+         inkscape:label="Layer 1"
+         transform="matrix(0.5,0,0,0.5,33.625,34.375)"
+         style="fill:#ffffff;stroke:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path31-7"
+           d="M 3.0181937,28.955025 1.182e-4,25.936595 4.9682,20.968297 9.9362828,16 4.9681409,11.031643 0,6.0632872 3.0316433,3.0316436 6.0632865,1.1999999e-7 11.031643,4.9681414 16,9.936283 20.968357,4.9681414 25.936714,1.2e-7 28.968357,3.0316436 32,6.0632872 27.031859,11.031643 22.063717,16 27.031859,20.968357 32,25.936713 28.968357,28.968357 25.936714,32 20.968357,27.031859 16,22.063717 l -4.955084,4.95487 c -2.7252954,2.725177 -4.9671351,4.954868 -4.9818648,4.954868 -0.014735,0 -1.3849156,-1.358293 -3.0448575,-3.01843 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.05342292" />
+      </g>
+      <g
+         id="layer1-1-3"
+         inkscape:label="Layer 1"
+         transform="matrix(0.5,0,0,0.5,13.5,34.375)"
+         style="fill:#ffffff">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8-6"
+           d="M 16,0 A 16,16 0 0 0 0,16 16,16 0 0 0 16,32 16,16 0 0 0 32,16 16,16 0 0 0 16,0 Z m 0,8.5703125 A 7.4299998,7.4299998 0 0 1 23.429688,16 7.4299998,7.4299998 0 0 1 16,23.429688 7.4299998,7.4299998 0 0 1 8.570312,16 7.4299998,7.4299998 0 0 1 16,8.5703125 Z"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
