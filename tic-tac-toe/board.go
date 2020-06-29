@@ -3,6 +3,7 @@ package main
 import (
 	"fyne.io/fyne"
 	"fyne.io/fyne/dialog"
+	"fyne.io/fyne/theme"
 	"fyne.io/fyne/widget"
 	"github.com/Jacalz/fyne-board-games/tic-tac-toe/assets"
 )
@@ -101,6 +102,7 @@ func (b *boardIcon) MinSize() fyne.Size {
 
 func newBoardIcon(bs *boardStatus, i int) *boardIcon {
 	b := &boardIcon{status: bs, index: i}
+	b.SetResource(theme.ViewFullScreenIcon())
 	b.ExtendBaseWidget(b)
 	return b
 }
