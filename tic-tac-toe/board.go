@@ -45,7 +45,7 @@ func (bs *boardStatus) CheckResult(player [9]bool) bool {
 }
 
 func (bs *boardStatus) NewBoardClick(i int) {
-	if i%2 == 0 {
+	if bs.turn%2 == 0 {
 		bs.BoardPlayer1[i] = true
 	} else {
 		bs.BoardPlayer2[i] = true
@@ -53,15 +53,15 @@ func (bs *boardStatus) NewBoardClick(i int) {
 
 	bs.BoardPressed[i] = true
 
-	if bs.turn >= 4 && i%2 == 0 {
+	if bs.turn >= 5 && bs.turn%2 == 0 {
 		if bs.CheckResult(bs.BoardPlayer1) {
 			dialog.ShowInformation("Player 1 has won!", "Congratulations to player 1 for winning.", *bs.w)
 			bs.finished = true
 		}
-	} else if bs.turn >= 4 {
+	} else if bs.turn >= 5 {
 		if bs.CheckResult(bs.BoardPlayer2) {
-			bs.finished = true
 			dialog.ShowInformation("Player 2 has won!", "Congratulations to player 2 for winning.", *bs.w)
+			bs.finished = true
 		}
 	}
 }
