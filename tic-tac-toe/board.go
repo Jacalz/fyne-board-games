@@ -45,7 +45,10 @@ func (bs *boardStatus) CheckResult(player [9]bool) bool {
 }
 
 func (bs *boardStatus) NewBoardClick(i int) {
-	if bs.turn%2 == 0 {
+	if bs.turn == 9 {
+		dialog.ShowInformation("It is a tie!", "Nobody has won. Please try better next time.", *bs.w)
+		bs.finished = true
+	} else if bs.turn%2 == 0 {
 		bs.BoardPlayer1[i] = true
 	} else {
 		bs.BoardPlayer2[i] = true
