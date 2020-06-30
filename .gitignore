@@ -5,6 +5,7 @@
 *.so
 *.dylib
 tic-tac-toe/tic-tac-toe
+othello/othello
 
 # Test binary, built with `go test -c`
 *.test
